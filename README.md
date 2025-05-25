@@ -94,10 +94,6 @@ Ensure you have Python installed on your system. You can download it from [pytho
 
 We welcome contributions to enhance the features and improve the system. Feel free to fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any queries or issues, please reach out to us through our social media channels:
